@@ -36,6 +36,9 @@
   "files": [
     "./lib/converter.js"
   ],
-  "author": "longcha",
+  "author": {
+    "name": "longcha",
+    "email": "kendricklamar@aliyun.com"
+  },
   "license": "MIT"
 }
