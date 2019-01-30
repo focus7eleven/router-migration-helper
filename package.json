@@ -1,6 +1,6 @@
 {
   "name": "react-router-migration-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a migration helper for react router 3 to 4",
   "main": "./cli.js",
   "engines": {
