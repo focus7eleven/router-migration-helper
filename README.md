@@ -5,7 +5,7 @@
 
 ### Try out
 ```bash
-npm run convert
+npm install -g react-router-migration-helper
 
 # the result will show in result.js
 ```
