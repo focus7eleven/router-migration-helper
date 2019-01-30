@@ -10,9 +10,7 @@ install
 npm install -g react-router-migration-helper
 ```
 
-migrate
-
-> ⚠️: Do not misspell the command by rm
+migrate ( ⚠️: Do not misspell the command by rm )
 
 ```
 rrm ./router.js
