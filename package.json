@@ -7,7 +7,7 @@
     "node": ">=8.0.0"
   },
   "bin": {
-    "migrate-helper": "./cli.js"
+    "rrm": "./cli.js"
   },
   "dependencies": {
     "babel-generator": "^6.26.1",
@@ -16,9 +16,6 @@
     "babel-traverse": "^6.26.0",
     "babel-types": "^6.26.0",
     "babylon": "^6.18.0",
-    "jsx-to-json": "^0.2.3",
-    "lodash": "^4.17.11",
-    "winston": "^3.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -40,5 +37,6 @@
     "name": "longcha",
     "email": "kendricklamar@aliyun.com"
   },
+  "homepage": "https://github.com/focus7eleven/router-migration-helper",
   "license": "MIT"
 }
